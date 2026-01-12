@@ -1,4 +1,4 @@
 print("Hello world!")
 print("Lol")
 print("another")
-print("Меня создали в GitHub")
+print("Меня создали в GitHub Пошла нахуй шлюха")
